@@ -409,13 +409,13 @@ Fuentes: Consejo de Estado; Secretaría Distrital de Planeación, concepto 3-202
 # El fallo, leído desde el borde
 
 <div class="scene cartilla-scene">
-  <figure class="cartilla-page"><a href="/slides/slide-19-fallo-cerros/cartilla-cerros-orientales.pdf#page=9" target="_blank" rel="noopener noreferrer" title="Abrir cartilla completa"><img src="/slides/slide-19-fallo-cerros/cartilla-pagina-8.jpg" alt="Página de la Cartilla Cerros Orientales sobre el fallo de 2013 y la organización comunitaria"></a><figcaption>Cartilla Cerros Orientales · p. 8 · clic para abrir el PDF completo</figcaption></figure>
+  <figure class="cartilla-page"><PdfLink document="slide-19-fallo-cerros/cartilla-cerros-orientales.pdf" :page="9"><img src="/slides/slide-19-fallo-cerros/cartilla-pagina-8.jpg" alt="Página de la Cartilla Cerros Orientales sobre el fallo de 2013 y la organización comunitaria"></PdfLink><figcaption>Cartilla Cerros Orientales · p. 8 · clic para abrir el PDF completo</figcaption></figure>
   <div>
     <p class="eyebrow">Encuentro Popular del Borde Oriental · 2024</p>
     <p class="question">Para las comunidades del borde, el fallo también habla de permanencia y participación.</p>
     <p>La cartilla destaca la organización y movilización de habitantes, así como el papel de la Mesa de Cerros Orientales durante el proceso judicial.</p>
     <p class="note">Es una lectura comunitaria del fallo: no reemplaza la sentencia, pero muestra lo que estaba en juego para quienes habitan los cerros.</p>
-    <a class="pdf-access" href="/slides/slide-19-fallo-cerros/cartilla-cerros-orientales.pdf#page=9" target="_blank" rel="noopener noreferrer">Abrir cartilla completa ↗</a>
+    <PdfLink class="pdf-access" document="slide-19-fallo-cerros/cartilla-cerros-orientales.pdf" :page="9">Abrir cartilla completa ↗</PdfLink>
   </div>
 </div>
 
