@@ -17,8 +17,8 @@ transition: slide-left
 <!--
 ## Notas del orador
 
-- Esta sesión no busca contar “toda” la historia de la localidad. Sigue una pregunta: ¿por qué y cómo se consolidó San Cristóbal como localidad?
-- La cronología parte de las relaciones entre agua, poblamiento, infraestructura, organización comunitaria y reconocimiento institucional.
+- Esta es una historia para conversar, no una lista completa.
+- Vamos a seguir el territorio, sus barrios y sus luchas.
 
 Recursos: `public/slides/01-portada/`
 -->
@@ -29,14 +29,19 @@ Recursos: `public/slides/01-portada/`
 
 <div class="index-stage">
   <ol class="index-list">
-    <li><b>I</b><span><strong>Territorio originario</strong><small>Antes de la urbe: agua, montaña y poblamientos antiguos.</small></span></li>
-    <li><b>II</b><span><strong>Colonización y haciendas</strong><small>La tierra se concentra y el paisaje se transforma.</small></span></li>
-    <li><b>III</b><span><strong>Barrios y organización popular</strong><small>Migraciones, autoconstrucción y reconocimiento local.</small></span></li>
-    <li><b>IV</b><span><strong>Memoria y disputas presentes</strong><small>Entrenubes, ambiente y los asuntos que siguen abiertos.</small></span></li>
+    <li><b>I</b><StoryIcon name="mountain" /><span><strong>Territorio originario</strong><small>Antes de la urbe: agua, montaña y poblamientos antiguos.</small></span></li>
+    <li><b>II</b><StoryIcon name="land" /><span><strong>Colonización y haciendas</strong><small>La tierra se concentra y el paisaje se transforma.</small></span></li>
+    <li><b>III</b><StoryIcon name="home" /><span><strong>Barrios y acción colectiva</strong><small>Migraciones, autoconstrucción y reconocimiento local.</small></span></li>
+    <li><b>IV</b><StoryIcon name="leaf" /><span><strong>Presente abierto</strong><small>Entrenubes, ambiente y asuntos por resolver.</small></span></li>
   </ol>
 </div>
 
-<!-- Recursos: `public/slides/slide-02-indice/` -->
+<!--
+## Notas del orador
+
+- Son cuatro capítulos y una sola pregunta: ¿cómo se hizo este territorio?
+- No hace falta leer el índice completo. Úsalo para orientar el recorrido.
+-->
 
 ---
 
@@ -56,8 +61,8 @@ Recursos: `public/slides/01-portada/`
 <!--
 ## Notas del orador
 
-- El Instituto Distrital de Patrimonio Cultural (IDPC) señala que Bogotá registra ocupación humana desde hace al menos 12.000 años. La referencia regional incluye los abrigos rocosos de El Abra y Tequendama.
-- Esta apertura evita empezar la historia en la conquista o en la creación administrativa de la localidad.
+- Bogotá no empezó con la fundación española.
+- San Cristóbal hace parte de una sabana habitada desde hace mucho tiempo.
 
 Fuente: IDPC, “Conmemoramos el Día Internacional de la Arqueología: redescubriendo nuestras raíces” (2025).
 Recursos: `public/slides/slide-03-bogota-12000-anios/`
@@ -73,17 +78,22 @@ Recursos: `public/slides/slide-03-bogota-12000-anios/`
   <span>El sur de Bogotá no empieza con la ciudad.</span>
 </div>
 
-<!-- Recursos: `public/slides/02-pregunta-origen/` -->
+<!--
+## Notas del orador
+
+- Antes de hablar de barrios, miremos el territorio.
+- El sur de Bogotá ya tenía agua, caminos y memoria.
+-->
 
 ---
 
-# Un territorio de agua, bosque y montaña
+# Agua, bosque y montaña
 
 <div class="scene image-history">
   <div>
     <p class="eyebrow">Mucho antes de los barrios</p>
     <p class="question">Las quebradas que hoy bajan hacia el Fucha ya organizaban la vida del territorio.</p>
-    <p>Bosque andino arriba. Agua, suelo y caminos abajo. Un territorio para habitar, cultivar y circular.</p>
+    <p>Bosque andino arriba. Agua, suelo y caminos abajo. Allí se habitaba, cultivaba y circulaba.</p>
   </div>
   <div class="image-slot"><img src="/slides/slide-05-territorio-originario/imagen-territorio.jpg" alt="Marcador para una imagen del territorio de cerros y quebradas"></div>
 </div>
@@ -91,7 +101,8 @@ Recursos: `public/slides/slide-03-bogota-12000-anios/`
 <!--
 ## Notas del orador
 
-- No separar “ambiente” e “historia humana”: este capítulo plantea que agua, relieve y poblamiento siempre han estado conectados.
+- El agua no es un fondo del paisaje: organiza la vida.
+- Cerros, quebradas y caminos ayudaron a formar este territorio.
 
 Recursos: `public/slides/02-pregunta-origen/`
 -->
@@ -112,8 +123,8 @@ Recursos: `public/slides/02-pregunta-origen/`
 <!--
 ## Notas del orador
 
-- Referencia: Parque Arqueológico de Usme / Hacienda El Carmen (IDPC e ICANH). Sus evidencias cubren periodos Herrera, Muisca temprano y Muisca tardío.
-- Decir con claridad: se trata del sur de Bogotá y la sabana; no afirmar que cada hallazgo ocurrió dentro de los límites actuales de San Cristóbal.
+- Estas huellas son del sur de Bogotá y la sabana.
+- No digamos que cada hallazgo ocurrió dentro de San Cristóbal.
 
 Recursos: `public/slides/02-pregunta-origen/`
 -->
@@ -126,7 +137,7 @@ Recursos: `public/slides/02-pregunta-origen/`
   <div>
     <p class="eyebrow">Memoria viva y precisión necesaria</p>
     <p class="question">La arqueología habla de ocupaciones antiguas; no reemplaza la voz de los pueblos indígenas actuales.</p>
-    <p>Bogotá sigue teniendo pueblos indígenas, autoridades y memoria. Arqueología, memoria y derechos presentes no son lo mismo; hay que escuchar los tres.</p>
+    <p>Bogotá sigue teniendo pueblos indígenas y autoridades propias. Arqueología, memoria y derechos presentes no son lo mismo; hay que escuchar los tres.</p>
   </div>
   <div class="micro-timeline"><p><b>Antes</b><span>Periodos Herrera y Muisca documentados en el sur de la sabana.</span></p><p><b>Hoy</b><span>Pueblos indígenas con autoridades, memoria y presencia en Bogotá.</span></p><p><b>Siempre</b><span>El territorio no se entiende sin quienes lo han cuidado y significado.</span></p></div>
 </div>
@@ -134,8 +145,8 @@ Recursos: `public/slides/02-pregunta-origen/`
 <!--
 ## Notas del orador
 
-- No presentar a los pueblos indígenas como un “origen” ya superado. La ciudad tiene presencia indígena contemporánea y procesos organizativos propios.
-- No atribuir un cabildo específico a San Cristóbal sin una fuente y una voz comunitaria que lo sustente.
+- Los pueblos indígenas no son solo pasado.
+- Hoy siguen teniendo memoria, organización y voz en Bogotá.
 
 Recursos: `public/slides/02-pregunta-origen/`
 -->
@@ -153,8 +164,12 @@ Recursos: `public/slides/02-pregunta-origen/`
 <!--
 ## Notas del orador
 
-- Empezar por el agua permite entender que el territorio ya estaba conectado con Bogotá antes de ser una localidad.
-- La investigación señala que el sistema de Vitelma no alcanzó a cubrir los nuevos asentamientos rurales y populares que crecerían posteriormente.
+- Idea central: el territorio pasó de ser un espacio habitado y relacionado con el agua, a convertirse en tierra concentrada, productiva y controlada por pocos propietarios.
+- La conquista rompió y reorganizó las formas previas de control territorial.
+- Surgieron encomiendas y, después, haciendas.
+- Se impulsaron cultivos, ganadería, trapiches y extracción de materiales.
+- Bosques y suelos se transformaron en potreros, cultivos, caminos y predios privados.
+- Con el tiempo, las grandes propiedades se fragmentaron en lotes: ahí está la base de los futuros chircales y barrios obreros.
 
 Recursos: `public/slides/03-agua-vitelma/`
 -->
@@ -172,7 +187,12 @@ Recursos: `public/slides/03-agua-vitelma/`
   <div class="image-slot"><img src="/slides/slide-08-haciendas/imagen-hacienda.jpg" alt="Marcador para una fotografía o plano de una hacienda histórica"></div>
 </div>
 
-<!-- Recursos: `public/slides/03-agua-vitelma/` -->
+<!--
+## Notas del orador
+
+- La conquista no solo cambió autoridades: cambió el uso de la tierra.
+- Cultivar y criar ganado significó talar y cercar.
+-->
 
 ---
 
@@ -187,7 +207,12 @@ Recursos: `public/slides/03-agua-vitelma/`
   <div class="neighborhood-list"><span>La Fiscala</span><span>La Milagrosa</span><span>San Blas</span><span>Los Alpes</span><span>Molinos de Chiguaza</span><span>Vitelma</span></div>
 </div>
 
-<!-- Recursos: `public/slides/03-agua-vitelma/` -->
+<!--
+## Notas del orador
+
+- Las haciendas se fueron partiendo en lotes.
+- De ahí salen varios nombres que todavía reconocemos.
+-->
 
 ---
 
@@ -195,15 +220,15 @@ Recursos: `public/slides/03-agua-vitelma/`
 
 <div class="chapter-stage">
   <p>Trabajo, migración, autoconstrucción y organización</p>
-  <h1>Barrios obreros<br>y migración campesina</h1>
+  <h1>Barrios obreros<br>y acción colectiva</h1>
   <span>La ciudad creció hacia el sur porque había que encontrar dónde vivir.</span>
 </div>
 
 <!--
 ## Notas del orador
 
-- No tratar a los barrios como un “vacío” urbano: fueron territorios construidos por quienes los habitaron.
-- La informalidad no describe ausencia de vida colectiva; nombra una relación desigual con la planeación y la provisión estatal.
+- Los barrios no aparecieron por accidente.
+- Fueron construidos por gente que buscaba dónde vivir.
 
 Recursos: `public/slides/04-poblamiento-popular/`
 -->
@@ -221,7 +246,12 @@ Recursos: `public/slides/04-poblamiento-popular/`
   <div class="image-slot"><img src="/slides/slide-11-vitelma/imagen-vitelma.jpg" alt="Marcador para una fotografía histórica de Vitelma"></div>
 </div>
 
-<!-- Recursos: `public/slides/03-agua-vitelma/` -->
+<!--
+## Notas del orador
+
+- Vitelma fue una obra importante para Bogotá.
+- Pero el crecimiento de los barrios fue más rápido que los servicios.
+-->
 
 ---
 
@@ -235,23 +265,12 @@ Recursos: `public/slides/04-poblamiento-popular/`
   <div class="neighborhood-list"><span>Buenos Aires</span><span>Arrabal de Obreros</span><span>Chircaleros</span><span>Sosiego</span><span>San Isidro</span><span>Bello Horizonte</span><span>Córdoba</span></div>
 </div>
 
-<!-- Recursos: `public/slides/04-poblamiento-popular/` -->
+<!--
+## Notas del orador
 
----
-
-# 1972 · La ciudad por fin lo nombró
-
-<div class="scene number-scene">
-  <div class="timeline-year">1972</div>
-  <div>
-    <p class="eyebrow">Acuerdo 26 del Concejo de Bogotá</p>
-    <p class="question">Nació la Alcaldía Menor Nº 4 San Cristóbal.</p>
-    <p>El acuerdo delimitó el área y creó una alcaldía menor.</p>
-    <p class="note">Nombrar un territorio no resuelve agua, vías ni servicios.</p>
-  </div>
-</div>
-
-<!-- Recursos: `public/slides/05-acuerdo-26/` -->
+- Llegar a la ciudad no garantizaba una vivienda.
+- Muchas familias construyeron con sus propios medios.
+-->
 
 ---
 
@@ -266,17 +285,22 @@ Recursos: `public/slides/04-poblamiento-popular/`
   </div>
 </div>
 
-<!-- Recursos: `public/slides/04-poblamiento-popular/` -->
+<!--
+## Notas del orador
+
+- La cifra sirve para ver la escala del problema.
+- Detrás de cada asentamiento había familias y necesidades concretas.
+-->
 
 ---
 
-# Años 1980–1990 · Nadie se quedó esperando
+# Años 1980–1990 · La respuesta fue colectiva
 
 <div class="scene split-history organization-scene">
   <div>
     <p class="eyebrow">La ciudad también se hace desde abajo</p>
-    <p class="question">Organizarse fue una forma de quedarse.</p>
-    <p>Organizarse convirtió problemas cotidianos en demandas colectivas.</p>
+    <p class="question">Responder juntas y juntos fue una forma de quedarse.</p>
+    <p>Los problemas cotidianos se volvieron demandas colectivas.</p>
   </div>
   <div class="org-list"><p v-click><b>JAC</b><span>Mejoramientos, vías, parques, trámites y vida barrial.</span></p><p v-click><b>PEPASO · CEYS</b><span>Educación popular, salud preventiva y formación ciudadana.</span></p><p v-click><b>Zona Cuarta</b><span>Defensa ambiental, espacios verdes y organización del suroriente.</span></p></div>
 </div>
@@ -284,27 +308,32 @@ Recursos: `public/slides/04-poblamiento-popular/`
 <!--
 ## Notas del orador
 
-- JAC, PEPASO, CEYS y Zona Cuarta son ejemplos de un tejido organizativo más amplio; no son una lista exhaustiva.
-- Subrayar que organizarse fue una respuesta a problemas concretos de servicios, formación, salud, ambiente y participación.
+- Estos son ejemplos, no una lista completa.
+- Organizarse fue una respuesta a problemas de todos los días.
 
 Recursos: `public/slides/06-organizacion-comunitaria/`
 -->
 
 ---
 
-# 1991–1992 · La figura cambió otra vez
+# 1972–1992 · De Alcaldía Menor a localidad
 
 <div class="scene number-scene institution-scene">
-  <div class="two-years"><b>1991</b><span>→</span><b>1992</b></div>
+  <div class="two-years"><b>1972</b><span>→</span><b>1992</b></div>
   <div>
-    <p class="eyebrow">Distrito Capital · Junta Administradora Local</p>
-    <p class="question">San Cristóbal pasó de Alcaldía Menor a localidad.</p>
-    <p>1991: Bogotá se vuelve Distrito Capital. 1992: se reglamentan alcaldía local y JAL.</p>
+    <p class="eyebrow">Acuerdo 26 · Distrito Capital · JAL</p>
+    <p class="question">Primero fue Alcaldía Menor. Después, localidad.</p>
+    <p>1972: nace la Alcaldía Menor Nº 4. 1992: se reglamentan la alcaldía local y la JAL.</p>
     <p class="small-fact"><b>11 ediles</b> integran la JAL.</p>
   </div>
 </div>
 
-<!-- Recursos: `public/slides/07-localidad-jal/` -->
+<!--
+## Notas del orador
+
+- En dos décadas cambió el nombre institucional de San Cristóbal.
+- La JAL acerca la participación, pero no resuelve todo.
+-->
 
 ---
 
@@ -313,10 +342,15 @@ Recursos: `public/slides/06-organizacion-comunitaria/`
 <div class="chapter-stage">
   <p>Ambiente, vida cotidiana y disputas por permanecer</p>
   <h1>Época contemporánea<br>y dinámicas locales</h1>
-  <span>La localidad sigue cambiando; también sigue discutiendo cómo quiere cambiar.</span>
+  <span>La localidad sigue cambiando y todavía decide hacia dónde.</span>
 </div>
 
-<!-- Recursos: `public/slides/08-entrenubes/` -->
+<!--
+## Notas del orador
+
+- Entramos a un presente que todavía está en discusión.
+- Ambiente y vida cotidiana se cruzan todo el tiempo.
+-->
 
 ---
 
@@ -335,8 +369,8 @@ Recursos: `public/slides/06-organizacion-comunitaria/`
 <!--
 ## Notas del orador
 
-- Reconocer el papel de Julio César Guevara y de los procesos comunitarios vinculados a la idea de parque.
-- Evitar el relato de “conservación buena / habitantes malos”. El valor de este caso está en mostrar el conflicto entre protección ambiental, participación y medios de vida.
+- El parque fue también una conquista comunitaria.
+- Proteger el cerro no puede borrar a quienes viven cerca de él.
 
 Recursos: `public/slides/08-entrenubes/`
 -->
@@ -357,10 +391,9 @@ Recursos: `public/slides/08-entrenubes/`
 <!--
 ## Notas del orador
 
-- Sentencia del Consejo de Estado del 5 de noviembre de 2013, expediente 2005-00662-03 (AP).
-- La decisión dejó en firme la Resolución 463 de 2005: mantuvo la Reserva Forestal Protectora Bosque Oriental y la Franja de Adecuación, de 973 hectáreas, como borde urbano.
-- También reconoció derechos adquiridos bajo condiciones legales previas. Evitar presentarlo como un fallo que “expulsó” automáticamente a quienes habitaban el borde.
-- Idea para explicar: protección ambiental, vivienda y derechos adquiridos deben pensarse a la vez; no son una discusión sencilla de blanco o negro.
+- El fallo es de 2013 y mantiene la Reserva y la Franja.
+- También reconoce derechos adquiridos en casos legales previos.
+- No fue una solución simple para el ambiente ni para la vivienda.
 
 Fuentes: Consejo de Estado; Secretaría Distrital de Planeación, concepto 3-2024-31432.
 -->
@@ -372,39 +405,38 @@ Fuentes: Consejo de Estado; Secretaría Distrital de Planeación, concepto 3-202
 <div class="scene present-scene">
   <p class="eyebrow">Paro nacional · 28 de abril</p>
   <p class="question">La reforma tributaria fue el detonante. El malestar venía de antes.</p>
-  <div class="present-grid"><div v-click><b>Desigualdad</b><span>La pandemia profundizó hambre, deuda e incertidumbre.</span></div><div v-click><b>Juventud</b><span>Precariedad laboral y pocas oportunidades para un futuro digno.</span></div><div v-click><b>Protesta</b><span>El uso de la fuerza abrió una discusión nacional sobre derechos humanos.</span></div></div>
+  <div class="present-grid"><div v-click><StoryIcon name="land" /><b>Desigualdad</b><span>La pandemia profundizó hambre, deuda e incertidumbre.</span></div><div v-click><StoryIcon name="people" /><b>Juventud</b><span>Precariedad laboral y pocas oportunidades para un futuro digno.</span></div><div v-click><StoryIcon name="megaphone" /><b>Protesta</b><span>El uso de la fuerza abrió una discusión nacional sobre derechos humanos.</span></div></div>
 </div>
 
 <!--
 ## Notas del orador
 
-- No reducir el estallido a una sola causa. La convocatoria inicial se opuso a una reforma tributaria; se amplió por desigualdad, efectos de la pandemia, desempleo juvenil, violencia y falta de oportunidades.
-- La protesta fue nacional y tuvo expresiones propias en Bogotá; no afirmar hechos concretos de San Cristóbal sin una fuente local.
-- La ONU documentó preocupaciones por violencia y uso de la fuerza durante las protestas y pidió investigaciones efectivas.
+- La reforma fue el detonante, no toda la explicación.
+- La pandemia y la desigualdad hicieron más grande el malestar.
+- La ONU pidió investigar denuncias de uso de la fuerza.
 
 Fuente: Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos, seguimiento a las protestas de 2021.
 -->
 
 ---
 
-# Serranía del Zuque · cuidar también es decidir
+# Serranía del Zuque · restaurar con la comunidad
 
 <div class="scene split-history organization-scene">
   <div>
     <p class="eyebrow">San Cristóbal · Cerros Orientales</p>
-    <p class="question">La lucha no es solo por salvar el cerro: es por decidir cómo se restaura y con quién.</p>
-    <p>Después de la cantera, la planta de asfalto y los escombros, el Zuque sigue siendo un territorio de restauración, memoria y organización comunitaria.</p>
+    <p class="question">No basta con restaurar el cerro: importa decidir cómo y con quién.</p>
+    <p>Después de la cantera, el asfalto y los escombros, el Zuque es un lugar de recuperación y trabajo comunitario.</p>
   </div>
-  <div class="org-list"><p v-click><b>Pasado</b><span>Cantera y asfalto dejaron erosión e inestabilidad.</span></p><p v-click><b>Presente</b><span>Restauración ecológica y control de impactos.</span></p><p v-click><b>Disputa</b><span>Colectivos locales reclaman participación y co-gestión.</span></p></div>
+  <div class="org-list"><p v-click><b>Pasado</b><span>Cantera y asfalto dejaron erosión e inestabilidad.</span></p><p v-click><b>Presente</b><span>Restauración ecológica y control de impactos.</span></p><p v-click><b>Demanda</b><span>Colectivos locales reclaman participación y co-gestión.</span></p></div>
 </div>
 
 <!--
 ## Notas del orador
 
-- La antigua cantera El Zuque operó aproximadamente desde 1960 hasta 1996; la planta de asfalto funcionó hasta 2006, según documentos distritales.
-- El área hace parte de la Reserva Forestal Protectora Bosque Oriental y fue incorporada como Parque Distrital Ecológico de Montaña en el POT de 2021.
-- Procesos comunitarios y colectivos ambientales han cuestionado intervenciones que consideran insuficientemente dialogadas y han pedido co-gestión. Presentarlo como una demanda y debate público, no como un hecho judicialmente resuelto.
-- Puedes nombrar, si es pertinente: Altos del Virrey, Ecoaula Ambiental del Zuque, Casa de la Lluvia de las Ideas y Juntanza Zuke Fucha.
+- Antes hubo cantera y planta de asfalto.
+- Hoy hay restauración, pero también debate sobre cómo hacerla.
+- La comunidad pide participar y decidir con las instituciones.
 
 Fuentes: Alcaldía Local de San Cristóbal; Secretaría Distrital de Ambiente; investigación académica de UNIMINUTO sobre co-gestión comunitaria (2026).
 -->
@@ -416,11 +448,16 @@ Fuentes: Alcaldía Local de San Cristóbal; Secretaría Distrital de Ambiente; i
 <div class="scene present-scene">
   <p class="eyebrow">San Cristóbal todavía se está haciendo</p>
   <p class="question">Movilidad, ambiente y derecho a la ciudad: asuntos sin cerrar.</p>
-  <div class="present-grid"><div v-click><b>Movilidad</b><span>Portal 20 de Julio, obras viales y proyectos de cable aéreo cambian las conexiones y el paisaje.</span></div><div v-click><b>Ambiente</b><span>Quebradas, cerros, huertas y zonas de riesgo siguen siendo lugares de cuidado y conflicto.</span></div><div v-click><b>Vida digna</b><span>Servicios, colegios, equipamientos, vivienda y participación siguen siendo demandas cotidianas.</span></div></div>
+  <div class="present-grid"><div v-click><StoryIcon name="road" /><b>Movilidad</b><span>Portal 20 de Julio, obras viales y proyectos de cable aéreo cambian las conexiones y el paisaje.</span></div><div v-click><StoryIcon name="leaf" /><b>Ambiente</b><span>Quebradas, cerros, huertas y zonas de riesgo siguen siendo lugares de cuidado y conflicto.</span></div><div v-click><StoryIcon name="people" /><b>Vida digna</b><span>Servicios, colegios, equipamientos, vivienda y participación siguen siendo demandas cotidianas.</span></div></div>
   <p class="closing-line">La localidad es lo que se necesita y lo que se logra defender.</p>
 </div>
 
-<!-- Recursos: `public/slides/09-presente-y-disputas/` -->
+<!--
+## Notas del orador
+
+- Estas no son deudas del pasado: siguen pasando hoy.
+- Preguntar cuál de estos temas se siente más cerca en el barrio.
+-->
 
 ---
 
@@ -431,4 +468,9 @@ Fuentes: Alcaldía Local de San Cristóbal; Secretaría Distrital de Ambiente; i
   <p class="question">¿Qué episodio de San Cristóbal debería estar acá y todavía no está?</p>
 </div>
 
-<!-- Recursos: `public/slides/10-cierre/` -->
+<!--
+## Notas del orador
+
+- Cierra invitando a completar la historia entre todas las personas.
+- Da tiempo para que alguien nombre un lugar, una memoria o una lucha.
+-->
