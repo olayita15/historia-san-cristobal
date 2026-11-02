@@ -127,6 +127,8 @@ h2, h3 { color: var(--sc-forest); }
 .cartilla-page a { display: inline-block; height: 22rem; background: #fffdf8; }
 .cartilla-page img { display: block; width: auto; height: 100%; max-width: 100%; box-shadow: 0 .55rem 1.5rem #214c3a33; object-fit: contain; }
 .cartilla-page figcaption { margin-top: .4rem; color: var(--sc-moss); font: 700 .58em Arial, sans-serif; letter-spacing: .05em; text-transform: uppercase; }
+.pdf-access { display: inline-block; margin-top: .4rem; border-bottom: 2px solid var(--sc-clay); padding-bottom: .15rem; color: var(--sc-forest); font: 700 .76em Arial, sans-serif; text-decoration: none; }
+.pdf-access:hover { color: var(--sc-clay); }
 @media (max-width: 720px) {
   .index-list { grid-template-columns: 1fr; gap: .4rem; }
   .image-history { grid-template-columns: 1fr; gap: 1rem; }
