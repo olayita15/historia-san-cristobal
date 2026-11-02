@@ -310,20 +310,22 @@ Recursos: `public/slides/04-poblamiento-popular/`
 
 - Estos son ejemplos, no una lista completa.
 - Organizarse fue una respuesta a problemas de todos los días.
+- Las JAC reunieron demandas por agua, vías, vivienda y servicios antes de que existieran canales institucionales cercanos.
+- No son lo mismo que una JAL: la JAC es una organización barrial; la JAL es una corporación pública elegida.
 
 Recursos: `public/slides/06-organizacion-comunitaria/`
 -->
 
 ---
 
-# 1972–1992 · De Alcaldía Menor a localidad
+# De Alcaldía Menor a localidad
 
 <div class="scene number-scene institution-scene">
   <div class="two-years"><b>1972</b><span>→</span><b>1992</b></div>
   <div>
-    <p class="eyebrow">Acuerdo 26 · Distrito Capital · JAL</p>
-    <p class="question">Primero fue Alcaldía Menor. Después, localidad.</p>
-    <p>1972: nace la Alcaldía Menor Nº 4. 1992: se reglamentan la alcaldía local y la JAL.</p>
+    <p class="eyebrow">Cambio institucional</p>
+    <p class="question">La estructura cambió. Las demandas siguieron.</p>
+    <p><strong>1972:</strong> Alcaldía Menor Nº 4. <strong>1992:</strong> localidad con JAL.</p>
     <p class="small-fact"><b>11 ediles</b> integran la JAL.</p>
   </div>
 </div>
@@ -332,7 +334,12 @@ Recursos: `public/slides/06-organizacion-comunitaria/`
 ## Notas del orador
 
 - En dos décadas cambió el nombre institucional de San Cristóbal.
-- La JAL acerca la participación, pero no resuelve todo.
+- Las JAL no nacieron directamente de las JAC: sus antecedentes legales vienen de 1968 y se desarrollaron en 1986.
+- La Constitución de 1991 las fortaleció para descentralizar decisiones y acercar el Estado a las localidades.
+- Las luchas barriales y las JAC hicieron visible la necesidad de voz local, servicios e inversión; ayudaron a dar sentido social a ese modelo.
+- Diferencia clave: la JAC organiza y gestiona desde el barrio; la JAL representa, propone y hace control político desde una institución pública.
+
+Fuente: Corte Constitucional, Sentencia C-541 de 1993; Registraduría Nacional.
 -->
 
 ---
@@ -354,7 +361,7 @@ Recursos: `public/slides/06-organizacion-comunitaria/`
 
 ---
 
-# 2003 · Entrenubes: una victoria con una conversación incómoda
+# 2003 · Entrenubes
 
 <div class="scene image-history park-scene">
   <div>
@@ -382,8 +389,7 @@ Recursos: `public/slides/08-entrenubes/`
 <div class="scene number-scene">
   <div class="data-stack"><div class="data-number"><AnimatedNumber :value="973" /></div><span class="data-caption">hectáreas de Franja de Adecuación</span></div>
   <div>
-    <p class="eyebrow">Hectáreas · Franja de Adecuación</p>
-    <p class="question">El fallo del Consejo de Estado dejó una pregunta difícil: ¿dónde termina la ciudad y dónde empieza la reserva?</p>
+    <p class="question">El fallo del Consejo de Estado dejó una pregunta: ¿dónde termina la ciudad y dónde empieza la reserva?</p>
     <p>Ratificó la reserva, reconoció una franja de transición y puso límites a nuevas licencias en el área protegida.</p>
   </div>
 </div>
@@ -396,6 +402,30 @@ Recursos: `public/slides/08-entrenubes/`
 - No fue una solución simple para el ambiente ni para la vivienda.
 
 Fuentes: Consejo de Estado; Secretaría Distrital de Planeación, concepto 3-2024-31432.
+-->
+
+---
+
+# El fallo, leído desde el borde
+
+<div class="scene cartilla-scene">
+  <figure class="cartilla-page"><a href="/slides/slide-19-fallo-cerros/cartilla-pagina-8.jpg" target="_blank" title="Abrir página ampliada"><img src="/slides/slide-19-fallo-cerros/cartilla-pagina-8.jpg" alt="Página de la Cartilla Cerros Orientales sobre el fallo de 2013 y la organización comunitaria"></a><figcaption>Cartilla Cerros Orientales · p. 8 · clic para ampliar</figcaption></figure>
+  <div>
+    <p class="eyebrow">Encuentro Popular del Borde Oriental · 2024</p>
+    <p class="question">Para las comunidades del borde, el fallo también habla de permanencia y participación.</p>
+    <p>La cartilla destaca la organización y movilización de habitantes, así como el papel de la Mesa de Cerros Orientales durante el proceso judicial.</p>
+    <p class="note">Es una lectura comunitaria del fallo: no reemplaza la sentencia, pero muestra lo que estaba en juego para quienes habitan los cerros.</p>
+  </div>
+</div>
+
+<!--
+## Notas del orador
+
+- Esta cartilla reúne la voz de organizaciones y barrios del borde oriental.
+- Su aporte es recordar que el fallo tuvo efectos sobre vidas, viviendas y permanencia.
+- Distinguir siempre: una cosa es lo que resolvió el tribunal; otra, cómo lo vivieron y reclamaron las comunidades.
+
+Fuente visual: Encuentro Popular del Borde Oriental de Bogotá, *Cartilla Cerros Orientales* (2024), p. 8.
 -->
 
 ---
