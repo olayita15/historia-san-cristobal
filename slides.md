@@ -8,10 +8,10 @@ transition: slide-left
 ---
 
 <section class="cover-stage">
-  <p class="eyebrow">Bogotá · Localidad 4</p>
-  <h1>San Cristóbal<br><span>no nació siendo localidad</span></h1>
-  <p class="cover-subtitle">Una historia de agua, barrios, cerros y gente que se organizó para quedarse.</p>
-  <p class="cover-detail">Sesión de estudio · cronología para conversar</p>
+  <p class="eyebrow">Bogotá · Localidad 04</p>
+  <h1>San Cristóbal</h1>
+  <p class="cover-subtitle">Una localidad obrera y campesina.</p>
+  <p class="cover-detail">Sesión de estudio</p>
 </section>
 
 <!--
@@ -28,11 +28,10 @@ Recursos: `public/slides/01-portada/`
 # Índice
 
 <div class="index-stage">
-  <p class="eyebrow">Una cronología para no perder el hilo</p>
   <ol class="index-list">
-    <li><b>I</b><span><strong>Territorio originario</strong><small>Antes de la ciudad: agua, montaña y poblamientos antiguos.</small></span></li>
+    <li><b>I</b><span><strong>Territorio originario</strong><small>Antes de la urbe: agua, montaña y poblamientos antiguos.</small></span></li>
     <li><b>II</b><span><strong>Colonización y haciendas</strong><small>La tierra se concentra y el paisaje se transforma.</small></span></li>
-    <li><b>III</b><span><strong>Barrios y organización popular</strong><small>Agua, migraciones, autoconstrucción y reconocimiento local.</small></span></li>
+    <li><b>III</b><span><strong>Barrios y organización popular</strong><small>Migraciones, autoconstrucción y reconocimiento local.</small></span></li>
     <li><b>IV</b><span><strong>Memoria y disputas presentes</strong><small>Entrenubes, ambiente y los asuntos que siguen abiertos.</small></span></li>
   </ol>
 </div>
