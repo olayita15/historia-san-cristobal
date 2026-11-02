@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Marcador de imagen de hacienda histórica">
+  <rect width="1200" height="800" fill="#f2ead9"/><path d="M110 570h980v115H110z" fill="#d9be91"/><path d="M240 570V390h190v180m80 0V300h240v270m80 0V390h190v180" fill="#789c76"/><path d="M190 390 335 265l145 125m-20-90 170-150 170 150m-20 90 145-125 145 125" fill="none" stroke="#c8653d" stroke-width="15"/>
+  <text x="600" y="685" text-anchor="middle" fill="#214c3a" font-family="Arial, sans-serif" font-size="34" font-weight="700">IMAGEN PENDIENTE · HACIENDA O PLANO HISTÓRICO</text><text x="600" y="730" text-anchor="middle" fill="#214c3a" font-family="Georgia, serif" font-size="25">Reemplaza este SVG por la imagen que consigas.</text>
+</svg>

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Marcador de imagen histórica de Vitelma">
+  <rect width="1200" height="800" fill="#dce9df"/><path d="M120 570h960" stroke="#41624a" stroke-width="26"/><path d="M230 570V300h740v270M180 300h840" fill="none" stroke="#789c76" stroke-width="25"/><path d="M330 570V395h140v175m260 0V395h140v175" fill="none" stroke="#c8653d" stroke-width="22"/>
+  <text x="600" y="685" text-anchor="middle" fill="#214c3a" font-family="Arial, sans-serif" font-size="34" font-weight="700">IMAGEN PENDIENTE · VITELMA</text><text x="600" y="730" text-anchor="middle" fill="#214c3a" font-family="Georgia, serif" font-size="25">Reemplaza este SVG por una fotografía histórica del acueducto.</text>
+</svg>

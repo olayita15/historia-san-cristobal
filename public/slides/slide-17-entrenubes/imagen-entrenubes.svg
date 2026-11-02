@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Marcador de imagen del parque Entrenubes">
+  <rect width="1200" height="800" fill="#dce9df"/><path d="M0 590c130-260 275-75 410-285 115-178 230 88 360-110 100-150 270 50 430-160V800H0Z" fill="#41624a"/><path d="M0 650c170-100 310 100 500-50s370 80 700-170" fill="none" stroke="#c8653d" stroke-width="12"/>
+  <text x="600" y="685" text-anchor="middle" fill="#f9f6ed" font-family="Arial, sans-serif" font-size="34" font-weight="700">IMAGEN PENDIENTE · PARQUE ENTRENUBES</text><text x="600" y="730" text-anchor="middle" fill="#f9f6ed" font-family="Georgia, serif" font-size="25">Reemplaza este SVG por una imagen del parque o sus comunidades.</text>
+</svg>
