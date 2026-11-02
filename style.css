@@ -88,6 +88,11 @@ h2, h3 { color: var(--sc-forest); }
 .neighborhood-list { display: flex; flex-wrap: wrap; gap: .42rem; align-content: center; border-left: 1px solid #c4d1bd; padding-left: 1.35rem; }
 .neighborhood-list span { border: 1px solid #c4d1bd; background: #fffdf8; padding: .35rem .48rem; color: var(--sc-forest); font: 700 .65em Arial, sans-serif; }
 .data-number { color: var(--sc-clay); font: 700 7.8em/.75 Arial, sans-serif; letter-spacing: -.11em; text-align: center; }
+.data-stack { display: flex; flex-direction: column; align-items: center; gap: .7rem; text-align: center; }
+.data-caption { max-width: 14rem; color: var(--sc-forest); font: 700 .57em/1.18 Arial, sans-serif; letter-spacing: .08em; text-transform: uppercase; }
+.impact-number { display: flex; align-items: baseline; gap: .45rem; margin: .1rem 0 .7rem; color: var(--sc-clay); }
+.impact-number .animated-number { font: 700 4.3em/.8 Arial, sans-serif; letter-spacing: -.1em; }
+.impact-number span { color: var(--sc-forest); font: 700 .72em/1.1 Arial, sans-serif; letter-spacing: .02em; text-transform: uppercase; }
 .organization-scene { grid-template-columns: .95fr 1.05fr; }
 .org-list p { grid-template-columns: 7.8rem 1fr; }
 .two-years { display: flex; align-items: center; justify-content: center; gap: .45rem; color: var(--sc-clay); font: 700 2.45em/.9 Arial, sans-serif; letter-spacing: -.08em; }

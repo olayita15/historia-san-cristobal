@@ -45,6 +45,7 @@ Recursos: `public/slides/01-portada/`
 <div class="scene image-history">
   <div>
     <p class="eyebrow">Antes de hablar de la localidad</p>
+    <p class="impact-number"><AnimatedNumber :value="12000" /><span>años de ocupación humana</span></p>
     <p class="question">El territorio donde hoy está Bogotá registra ocupación humana desde hace, por lo menos, doce mil años.</p>
     <p>San Cristóbal es una parte reciente de una sabana habitada, recorrida y transformada durante milenios.</p>
     <p class="note">El Abra y Tequendama son referencias regionales; no son hallazgos dentro de la localidad.</p>
@@ -100,7 +101,7 @@ Recursos: `public/slides/02-pregunta-origen/`
 # La memoria arqueológica no es un adorno
 
 <div class="scene number-scene">
-  <div class="data-number">+2.000</div>
+  <div class="data-stack"><div class="data-number"><AnimatedNumber :value="2000" prefix="+" /></div><span class="data-caption">años de evidencias regionales</span></div>
   <div>
     <p class="eyebrow">Años de evidencias en el sur de la sabana</p>
     <p class="question">Usme y el sur de Bogotá conservan huellas desde el periodo Herrera hasta el Muisca tardío.</p>
@@ -257,7 +258,7 @@ Recursos: `public/slides/04-poblamiento-popular/`
 # 1990 · La cifra que no cabe en un mapa bonito
 
 <div class="scene number-scene data-scene">
-  <div class="data-number">140</div>
+  <div class="data-stack"><div class="data-number"><AnimatedNumber :value="140" /></div><span class="data-caption">asentamientos registrados · 1990</span></div>
   <div>
     <p class="eyebrow">Asentamientos con problemas de servicios y riesgo</p>
     <p class="question">La cifra no dice todo, pero sí deja algo claro.</p>
@@ -338,6 +339,74 @@ Recursos: `public/slides/06-organizacion-comunitaria/`
 - Evitar el relato de “conservación buena / habitantes malos”. El valor de este caso está en mostrar el conflicto entre protección ambiental, participación y medios de vida.
 
 Recursos: `public/slides/08-entrenubes/`
+-->
+
+---
+
+# 2013 · Los Cerros también se deciden en los tribunales
+
+<div class="scene number-scene">
+  <div class="data-stack"><div class="data-number"><AnimatedNumber :value="973" /></div><span class="data-caption">hectáreas de Franja de Adecuación</span></div>
+  <div>
+    <p class="eyebrow">Hectáreas · Franja de Adecuación</p>
+    <p class="question">El fallo del Consejo de Estado dejó una pregunta difícil: ¿dónde termina la ciudad y dónde empieza la reserva?</p>
+    <p>Ratificó la reserva, reconoció una franja de transición y puso límites a nuevas licencias en el área protegida.</p>
+  </div>
+</div>
+
+<!--
+## Notas del orador
+
+- Sentencia del Consejo de Estado del 5 de noviembre de 2013, expediente 2005-00662-03 (AP).
+- La decisión dejó en firme la Resolución 463 de 2005: mantuvo la Reserva Forestal Protectora Bosque Oriental y la Franja de Adecuación, de 973 hectáreas, como borde urbano.
+- También reconoció derechos adquiridos bajo condiciones legales previas. Evitar presentarlo como un fallo que “expulsó” automáticamente a quienes habitaban el borde.
+- Idea para explicar: protección ambiental, vivienda y derechos adquiridos deben pensarse a la vez; no son una discusión sencilla de blanco o negro.
+
+Fuentes: Consejo de Estado; Secretaría Distrital de Planeación, concepto 3-2024-31432.
+-->
+
+---
+
+# 2021 · El estallido no fue solo una reforma
+
+<div class="scene present-scene">
+  <p class="eyebrow">Paro nacional · 28 de abril</p>
+  <p class="question">La reforma tributaria fue el detonante. El malestar venía de antes.</p>
+  <div class="present-grid"><div v-click><b>Desigualdad</b><span>La pandemia profundizó hambre, deuda e incertidumbre.</span></div><div v-click><b>Juventud</b><span>Precariedad laboral y pocas oportunidades para un futuro digno.</span></div><div v-click><b>Protesta</b><span>El uso de la fuerza abrió una discusión nacional sobre derechos humanos.</span></div></div>
+</div>
+
+<!--
+## Notas del orador
+
+- No reducir el estallido a una sola causa. La convocatoria inicial se opuso a una reforma tributaria; se amplió por desigualdad, efectos de la pandemia, desempleo juvenil, violencia y falta de oportunidades.
+- La protesta fue nacional y tuvo expresiones propias en Bogotá; no afirmar hechos concretos de San Cristóbal sin una fuente local.
+- La ONU documentó preocupaciones por violencia y uso de la fuerza durante las protestas y pidió investigaciones efectivas.
+
+Fuente: Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos, seguimiento a las protestas de 2021.
+-->
+
+---
+
+# Serranía del Zuque · cuidar también es decidir
+
+<div class="scene split-history organization-scene">
+  <div>
+    <p class="eyebrow">San Cristóbal · Cerros Orientales</p>
+    <p class="question">La lucha no es solo por salvar el cerro: es por decidir cómo se restaura y con quién.</p>
+    <p>Después de la cantera, la planta de asfalto y los escombros, el Zuque sigue siendo un territorio de restauración, memoria y organización comunitaria.</p>
+  </div>
+  <div class="org-list"><p v-click><b>Pasado</b><span>Cantera y asfalto dejaron erosión e inestabilidad.</span></p><p v-click><b>Presente</b><span>Restauración ecológica y control de impactos.</span></p><p v-click><b>Disputa</b><span>Colectivos locales reclaman participación y co-gestión.</span></p></div>
+</div>
+
+<!--
+## Notas del orador
+
+- La antigua cantera El Zuque operó aproximadamente desde 1960 hasta 1996; la planta de asfalto funcionó hasta 2006, según documentos distritales.
+- El área hace parte de la Reserva Forestal Protectora Bosque Oriental y fue incorporada como Parque Distrital Ecológico de Montaña en el POT de 2021.
+- Procesos comunitarios y colectivos ambientales han cuestionado intervenciones que consideran insuficientemente dialogadas y han pedido co-gestión. Presentarlo como una demanda y debate público, no como un hecho judicialmente resuelto.
+- Puedes nombrar, si es pertinente: Altos del Virrey, Ecoaula Ambiental del Zuque, Casa de la Lluvia de las Ideas y Juntanza Zuke Fucha.
+
+Fuentes: Alcaldía Local de San Cristóbal; Secretaría Distrital de Ambiente; investigación académica de UNIMINUTO sobre co-gestión comunitaria (2026).
 -->
 
 ---
